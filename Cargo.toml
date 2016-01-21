@@ -1,0 +1,8 @@
+[package]
+name = "simplewindow"
+version = "0.1.0"
+authors = ["Mallmold <service@mallmold.com>"]
+
+[dependencies]
+user32-sys = "*"
+winapi = "*"
